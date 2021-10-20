@@ -1,4 +1,4 @@
-# LesionAreaMeasurment
+# Lesion Area Measurment
 
 Quantify a selected image area
 
